@@ -29,7 +29,7 @@ echo "%file_with_results% was not existed"
 
 
 REM Writing to the file Results.txt
-echo Results CO_IDS %myDATE% , %myTIME% >> %file_with_results%
+echo Results %myDATE% , %myTIME% >> %file_with_results%
 echo --------------------------------- >> %file_with_results%
 
 for /f "tokens=3 delims= " %%A in ('findstr /c:"Error line: " search.log') do (
