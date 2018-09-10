@@ -41,7 +41,7 @@ set /a count += 1
 REM Print without new line at the end
 echo | set /p="--------------------------------" >> %file_with_results%
 
-echo "%count%  co_ids were found." 
+echo "%count%  co_ids were found."
 echo "Bye Byeeeeeeee Searcher"
 
 pause
