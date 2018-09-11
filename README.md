@@ -1,6 +1,6 @@
 # Searching-text-file
 
-##Batch Scripting - Searching a text file and extract some data.  
+## Batch Scripting - Searching a text file and extract some data.  
 
 Searching into the **search.log** file in order to find the pattern **"Error line: "**.
 
