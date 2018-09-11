@@ -4,7 +4,7 @@
 
 Searching into the **search.log** file in order to find the pattern **_"Error line: "_**.
 
-Then the script splits the results into 3 strings and returns the 3-rd one, which is a number.
+Then the script splits the results into :three: strings and returns the 3-rd one, which is a number.
 
 All the numbers where the script finds they will be written to the **Results.txt** file.  
 
