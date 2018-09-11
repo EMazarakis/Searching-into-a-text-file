@@ -8,7 +8,7 @@ Then the script splits the results into 3 strings and returns the 3-rd one, whic
 
 All the numbers where the script finds they will be written to the **Results.txt** file.  
 
-**Results.txt** & **search.log** will exist under the same directory.
+**Results.txt** & **search.log** will exist under the same :file_folder:
 
 
 ## Set Up - Instructions
