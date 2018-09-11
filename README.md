@@ -14,4 +14,5 @@ All the numbers where the script finds they will be written to the **Results.txt
 ## Set Up - Instructions
 
 1. At the **digger_of_text_file.bat** you have to change the variable *where_searching_file_is*=**"dir-path-of-the-file-search.log"**.
-2. You can run the **digger_of_text_file.bat** from everywhere.
+2. You can run the **digger_of_text_file.bat** from any place on :computer:
+
